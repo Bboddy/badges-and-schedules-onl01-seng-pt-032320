@@ -10,7 +10,8 @@ end
 
 def assign_rooms(array)
   roomsArray = []
-  array.each {|name| roomsArray << "Hello, #{name}! You'll be assigned to room #{array}!"}
+  i = 0
+  while i <= array.length+1
 end
 
 def printer
