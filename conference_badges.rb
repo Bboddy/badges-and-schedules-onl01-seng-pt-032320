@@ -12,6 +12,8 @@ def assign_rooms(array)
   roomsArray = []
   i = 0
   while i <= array.length+1
+    roomsArray.
+  end
 end
 
 def printer
